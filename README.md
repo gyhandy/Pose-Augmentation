@@ -2,7 +2,8 @@
 
 The code of our PyTorch implementation for Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition will appear soon. It is still under active development.
 
-<img src='imgs/eccv.jpg' width="800px">
+[Demo](https://youtu.be/uZS5JKMBDZA)
+<img src='imgs/demo.png' width="800px">
 
 ## Abstract
 
@@ -16,7 +17,7 @@ Object pose increases interclass object variance which makesobject recognition f
 <img src='imgs/figure3.png' width="800px">
 
 ## Performance
-<img src='imgs/figure1.png' width="800px">
+
 
 #### on iLab20M
 <img src='imgs/sup-fig2.png' width="800px">
@@ -32,9 +33,9 @@ Object pose increases interclass object variance which makesobject recognition f
 
 ## BibTex
 
-@article{ge2020pose,
-  title={Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition},
-  author={Ge, Yunhao and Zhao, Jiaping and Itti, Laurent},
-  journal={arXiv preprint arXiv:2003.08526},
-  year={2020}
+@article{ge2020pose,  
+  title={Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition},  
+  author={Ge, Yunhao and Zhao, Jiaping and Itti, Laurent},  
+  journal={arXiv preprint arXiv:2003.08526},  
+  year={2020}  
 }
