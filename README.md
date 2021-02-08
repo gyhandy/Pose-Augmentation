@@ -33,9 +33,11 @@ Object pose increases interclass object variance which makesobject recognition f
 
 ## BibTex
 
-@article{ge2020pose,  
-  title={Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition},  
-  author={Ge, Yunhao and Zhao, Jiaping and Itti, Laurent},  
-  journal={arXiv preprint arXiv:2003.08526},  
-  year={2020}  
+@inproceedings{ge2020pose,
+  title={Pose Augmentation: Class-agnostic Object Pose Transformation for Object Recognition},
+  author={Ge, Yunhao and Zhao, Jiaping and Itti, Laurent},
+  booktitle={European Conference on Computer Vision},
+  pages={138--155},
+  year={2020},
+  organization={Springer}
 }
