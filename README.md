@@ -42,5 +42,3 @@ Object pose increases interclass object variance which makesobject recognition f
   organization={Springer}
 }
 
-
-
